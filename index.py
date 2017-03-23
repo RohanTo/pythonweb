@@ -104,4 +104,3 @@ window.setTimeout("moveslider()",2000);
 </form>
 </body>
 </html>
-"""
